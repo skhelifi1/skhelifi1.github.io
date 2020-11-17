@@ -15,36 +15,33 @@
   <p>I like Data Analytics and always want to learn more about it. Data Analytics Bootcamp At Butler is helping me with this.</p>
 
   <ul>
-    <li><strong>Email:</strong> <a href="#">someplace@gmail.com</a></li>
-    <li><strong>Github:</strong> <a href="#">sampleName</a></li>
-    <li><strong>Twitter:</strong> <a href="#">coming soon</a></li>
+    <li><strong>Email:</strong> <a href="#">sirine.khelifi1@outlook.com</a></li>
+    <li><strong>Github:</strong> <a href="#">skhelifi1</a></li>
+    <li><strong>LinkedIn:</strong> <a href="#">linkedin.com/in/sirine-khelifi-291b4755</a></li>
   </ul>
 
   <table>
     <tr>
-      <th>Books</th>
+      <th>Singer</th>
       <th>Movies</th>
-      <th>Games</th>
+      <th>Aroma</th>
     </tr>
     <tr>
-      <td>The Hobbit</td>
-      <td>Hot Fuzz</td>
-      <td>Dark Souls</td>
+      <td>Charle Aznavour</td>
+      <td>The Notebook</td>
+      <td>Coffee</td>
     </tr>
     <tr>
-      <td>The Name of the Wind</td>
-      <td>The Avengers</td>
-      <td>The Last of Us</td>
+      <td>Barry White</td>
+      <td>My best Friend's Wedding</td>
+      <td>Lavender</td>
     </tr>
     <tr>
-      <td>The Girl With All the Gifts</td>
-      <td>The Matrix</td>
-      <td>Dragon Age: Origins</td>
+      <td>Cher</td>
+      <td>Harry Potter</td>
+      <td>Honey Suckle</td>
     </tr>
   </table>
-
-  <!-- Bonus link to last class page -->
-  <a href="../../../../1/Activities/04-Stu_MyFirst_HTML/Solved/my-first-bonus.html">My First HTML Bonus</a>
 
 </body>
 
